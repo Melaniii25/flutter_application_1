@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:application_ivote/user/welcome3_screen.dart';
+import 'package:flutter_application_1/welcome3.dart';
 
 class Welcome2Screen extends StatelessWidget {
   const Welcome2Screen({super.key});
